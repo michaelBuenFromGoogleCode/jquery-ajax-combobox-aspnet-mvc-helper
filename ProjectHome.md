@@ -1,0 +1,1 @@
+This is just the demo code of helper usage.  To get the actual helper code, get it at: http://code.google.com/p/ienablemuch-jquery-ajax-combobox-aspnetmvc/downloads/list
